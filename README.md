@@ -1,2 +1,2 @@
 # Django-Blog
-A backend blog created in Python (Django)
+A basic blog created in Python (Django)
